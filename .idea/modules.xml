@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GitTest_main.iml" group="GitTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GitTest_test.iml" group="GitTest" />
+    </modules>
+  </component>
+</project>
